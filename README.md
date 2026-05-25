@@ -59,7 +59,7 @@ Competitive Analysis	Top contested seats, closest margins
 
 ## Dashboard Outputs
 
-### Dashboard Home
+### Dashboard
 ![Dashboard](outputs/dashboard.png)
 
 ### Analysis 1
@@ -68,16 +68,16 @@ Competitive Analysis	Top contested seats, closest margins
 ### Analysis 2
 ![Analysis 2](outputs/analysis%202.png)
 
-### Data Analysis
+### Data
 ![Data](outputs/data.png)
 
-### 3D Visualizations
+### 3D Plots
 ![3D Plots](outputs/3d%20plots.png)
 
 ### Average Statistics
-![Average Stats](outputs/avg%20stasts.png)
+![Average Statistics](outputs/avg%20stasts.png)
 
-### Voting Patterns
+### Voting Pattern
 ![Voting Pattern](outputs/votting%20pattern.png)
 
 ### Summary
