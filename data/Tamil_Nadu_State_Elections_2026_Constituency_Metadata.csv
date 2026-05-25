@@ -1,0 +1,240 @@
+Constituency,Tot_Constituency_votes_polled,Cons_vote_pct,Tot_parties_competed,District,Reserved,Lok_sabha_constituency,State_Name
+Gummidipoondi,98432,71.2,8,Tiruvallur,GEN,Tiruvallur,Tamil Nadu
+Ponneri,102341,73.4,9,Tiruvallur,SC,Tiruvallur,Tamil Nadu
+Tiruttani,95621,70.8,11,Tiruvallur,GEN,Arakkonam,Tamil Nadu
+Sholingur,88432,69.1,7,Vellore,GEN,Arakkonam,Tamil Nadu
+Katpadi,91234,72.3,10,Vellore,GEN,Vellore,Tamil Nadu
+Ranipet,96541,74.1,8,Vellore,SC,Vellore,Tamil Nadu
+Arcot,89123,71.6,12,Vellore,GEN,Vellore,Tamil Nadu
+Vellore,112432,68.9,19,Vellore,GEN,Vellore,Tamil Nadu
+Anaikattu,78432,75.3,7,Vellore,SC,Vellore,Tamil Nadu
+Kilvaithinankuppam,82341,76.8,6,Vellore,SC,Vellore,Tamil Nadu
+Gudiyatham,94321,73.2,9,Vellore,GEN,Vellore,Tamil Nadu
+Vaniyambadi,103421,70.4,13,Tirupattur,GEN,Vellore,Tamil Nadu
+Ambur,98712,71.8,11,Tirupattur,GEN,Vellore,Tamil Nadu
+Jolarpet,87432,74.6,8,Tirupattur,GEN,Krishnagiri,Tamil Nadu
+Tirupattur,91234,72.9,10,Tirupattur,SC,Krishnagiri,Tamil Nadu
+Uthangarai,84321,78.4,7,Krishnagiri,ST,Dharmapuri,Tamil Nadu
+Bargur,79432,79.1,6,Krishnagiri,ST,Dharmapuri,Tamil Nadu
+Krishnagiri,96541,73.6,12,Krishnagiri,GEN,Krishnagiri,Tamil Nadu
+Veppanahalli,82341,75.2,8,Krishnagiri,SC,Krishnagiri,Tamil Nadu
+Hosur,108432,69.8,14,Krishnagiri,GEN,Krishnagiri,Tamil Nadu
+Thalli,78123,76.4,7,Krishnagiri,SC,Krishnagiri,Tamil Nadu
+Palacode,84321,77.8,6,Dharmapuri,ST,Dharmapuri,Tamil Nadu
+Pennagaram,79432,78.9,7,Dharmapuri,GEN,Dharmapuri,Tamil Nadu
+Dharmapuri,96543,74.2,11,Dharmapuri,GEN,Dharmapuri,Tamil Nadu
+Pappireddippatti,82341,76.1,8,Dharmapuri,SC,Dharmapuri,Tamil Nadu
+Harur,78432,77.4,7,Dharmapuri,ST,Dharmapuri,Tamil Nadu
+Tiruvannamalai,103421,73.8,10,Tiruvannamalai,GEN,Tiruvannamalai,Tamil Nadu
+Kilpennathur,88432,75.6,8,Tiruvannamalai,SC,Tiruvannamalai,Tamil Nadu
+Kalasapakkam,82341,76.9,7,Tiruvannamalai,GEN,Tiruvannamalai,Tamil Nadu
+Polur,87432,74.3,9,Tiruvannamalai,SC,Tiruvannamalai,Tamil Nadu
+Arani,94321,72.8,11,Tiruvannamalai,GEN,Arani,Tamil Nadu
+Cheyyar,89123,73.4,8,Tiruvannamalai,GEN,Arani,Tamil Nadu
+Vandavasi,91234,74.1,9,Tiruvannamalai,SC,Arani,Tamil Nadu
+Gingee,84321,75.8,8,Villupuram,GEN,Villupuram,Tamil Nadu
+Mailam,79432,76.4,7,Villupuram,SC,Villupuram,Tamil Nadu
+Tindivanam,98432,72.1,12,Villupuram,GEN,Villupuram,Tamil Nadu
+Vanur,82341,75.3,8,Villupuram,SC,Villupuram,Tamil Nadu
+Vikravandi,91234,74.1,9,Villupuram,GEN,Villupuram,Tamil Nadu
+Tirukoilur,84321,76.8,7,Villupuram,SC,Kallakurichi,Tamil Nadu
+Ulundurpet,79432,77.4,6,Villupuram,GEN,Kallakurichi,Tamil Nadu
+Rishivandiyam,75432,78.9,6,Villupuram,ST,Kallakurichi,Tamil Nadu
+Kallakurichi,96541,73.6,11,Kallakurichi,GEN,Kallakurichi,Tamil Nadu
+Sankarapuram,84321,75.2,8,Kallakurichi,SC,Kallakurichi,Tamil Nadu
+Attur,91234,74.3,9,Salem,GEN,Salem,Tamil Nadu
+Yercaud,72341,81.4,5,Salem,ST,Salem,Tamil Nadu
+Omalur,88432,75.6,8,Salem,SC,Salem,Tamil Nadu
+Mettur,94321,74.2,9,Salem,GEN,Salem,Tamil Nadu
+Edappadi,98432,73.8,10,Salem,GEN,Salem,Tamil Nadu
+Salem (West),112432,68.4,17,Salem,GEN,Salem,Tamil Nadu
+Salem (North),108432,67.9,16,Salem,GEN,Salem,Tamil Nadu
+Salem (South),106541,68.7,15,Salem,SC,Salem,Tamil Nadu
+Veerapandi,84321,75.1,8,Salem,SC,Salem,Tamil Nadu
+Rasipuram,89432,74.6,10,Namakkal,GEN,Namakkal,Tamil Nadu
+Senthamangalam,76432,79.2,6,Namakkal,ST,Namakkal,Tamil Nadu
+Namakkal,98432,73.4,11,Namakkal,GEN,Namakkal,Tamil Nadu
+Paramathi-Velur,84321,75.8,8,Namakkal,SC,Namakkal,Tamil Nadu
+Tiruchengode,96541,73.9,14,Namakkal,GEN,Namakkal,Tamil Nadu
+Kumarapalayam,91234,74.6,9,Namakkal,GEN,Namakkal,Tamil Nadu
+Erode (East),108432,72.1,13,Erode,GEN,Erode,Tamil Nadu
+Erode (West),104321,72.8,12,Erode,GEN,Erode,Tamil Nadu
+Modakkurichi,88432,75.3,8,Erode,SC,Erode,Tamil Nadu
+Bhavani,94321,74.1,9,Erode,GEN,Erode,Tamil Nadu
+Perundurai,89123,75.6,8,Erode,SC,Erode,Tamil Nadu
+Gobichettipalayam,96541,73.8,10,Erode,GEN,Erode,Tamil Nadu
+Anthiyur,78432,77.4,7,Erode,GEN,Erode,Tamil Nadu
+Bhavanisagar,72341,79.8,5,Erode,ST,Erode,Tamil Nadu
+Udhagamandalam,82341,76.2,9,Nilgiris,GEN,Nilgiris,Tamil Nadu
+Gudalur,74321,80.4,6,Nilgiris,ST,Nilgiris,Tamil Nadu
+Coonoor,78432,78.1,7,Nilgiris,GEN,Nilgiris,Tamil Nadu
+Mettuppalayam,88432,75.6,8,Coimbatore,GEN,Coimbatore,Tamil Nadu
+Coimbatore (North),112432,69.8,15,Coimbatore,GEN,Coimbatore,Tamil Nadu
+Coimbatore (South),116432,68.4,16,Coimbatore,GEN,Coimbatore,Tamil Nadu
+Singanallur,108432,70.4,13,Coimbatore,GEN,Coimbatore,Tamil Nadu
+Kinathukadavu,84321,75.3,8,Coimbatore,SC,Coimbatore,Tamil Nadu
+Pollachi,98432,74.1,11,Coimbatore,GEN,Pollachi,Tamil Nadu
+Valparai,72341,81.2,5,Coimbatore,ST,Pollachi,Tamil Nadu
+Sulur,94321,74.6,9,Coimbatore,GEN,Coimbatore,Tamil Nadu
+Kavundampalayam,91234,74.9,10,Coimbatore,GEN,Coimbatore,Tamil Nadu
+Thondamuthur,86432,75.8,8,Coimbatore,SC,Coimbatore,Tamil Nadu
+Palladam,88432,75.4,8,Tiruppur,SC,Tiruppur,Tamil Nadu
+Tiruppur (North),108432,71.8,12,Tiruppur,GEN,Tiruppur,Tamil Nadu
+Tiruppur (South),106541,72.1,11,Tiruppur,GEN,Tiruppur,Tamil Nadu
+Avinashi,94321,74.3,9,Tiruppur,GEN,Tiruppur,Tamil Nadu
+Tirupur,98432,73.8,10,Tiruppur,GEN,Tiruppur,Tamil Nadu
+Udumalpet,88432,75.6,8,Tiruppur,GEN,Tiruppur,Tamil Nadu
+Madathukulam,82341,76.4,7,Tiruppur,SC,Tiruppur,Tamil Nadu
+Dharapuram,86432,75.8,8,Tiruppur,SC,Tiruppur,Tamil Nadu
+Kangeyam,89123,75.3,9,Tiruppur,GEN,Tiruppur,Tamil Nadu
+Periyanaickenpalayam,84321,76.1,7,Coimbatore,SC,Coimbatore,Tamil Nadu
+Palani,98432,74.6,13,Dindigul,GEN,Dindigul,Tamil Nadu
+Oddanchatram,88432,75.8,8,Dindigul,SC,Dindigul,Tamil Nadu
+Athoor,82341,76.4,7,Dindigul,GEN,Dindigul,Tamil Nadu
+Dindigul,104321,72.4,14,Dindigul,GEN,Dindigul,Tamil Nadu
+Vedasandur,84321,76.1,8,Dindigul,SC,Dindigul,Tamil Nadu
+Aravakurichi,86432,75.6,9,Karur,GEN,Karur,Tamil Nadu
+Karur,98432,73.8,11,Karur,GEN,Karur,Tamil Nadu
+Krishnarayapuram,82341,76.2,7,Karur,SC,Karur,Tamil Nadu
+Kulithalai,88432,75.4,8,Karur,GEN,Karur,Tamil Nadu
+Manapparai,84321,76.1,8,Tiruchirappalli,GEN,Tiruchirappalli,Tamil Nadu
+Srirangam,108432,73.6,13,Tiruchirappalli,GEN,Tiruchirappalli,Tamil Nadu
+Tiruchirappalli (West),112432,72.1,14,Tiruchirappalli,GEN,Tiruchirappalli,Tamil Nadu
+Tiruchirappalli (East),109432,72.6,13,Tiruchirappalli,GEN,Tiruchirappalli,Tamil Nadu
+Thiruverumbur,94321,74.3,9,Tiruchirappalli,SC,Tiruchirappalli,Tamil Nadu
+Lalgudi,88432,75.6,8,Tiruchirappalli,GEN,Tiruchirappalli,Tamil Nadu
+Manachanallur,82341,76.4,7,Tiruchirappalli,SC,Tiruchirappalli,Tamil Nadu
+Musiri,86432,75.8,8,Tiruchirappalli,GEN,Tiruchirappalli,Tamil Nadu
+Thuraiyur,84321,76.2,8,Tiruchirappalli,SC,Tiruchirappalli,Tamil Nadu
+Peravurani,82341,77.1,7,Thanjavur,GEN,Thanjavur,Tamil Nadu
+Papanasam,88432,76.4,8,Thanjavur,GEN,Thanjavur,Tamil Nadu
+Thiruvidaimarudur,84321,77.8,7,Thanjavur,SC,Thanjavur,Tamil Nadu
+Kumbakonam,98432,75.2,10,Thanjavur,GEN,Thanjavur,Tamil Nadu
+Papanasam,84321,77.1,7,Thanjavur,GEN,Thanjavur,Tamil Nadu
+Thanjavur,108432,74.3,12,Thanjavur,GEN,Thanjavur,Tamil Nadu
+Orathanadu,86432,76.8,7,Thanjavur,SC,Thanjavur,Tamil Nadu
+Pattukkottai,88432,76.2,8,Thanjavur,GEN,Thanjavur,Tamil Nadu
+Thiruvaiyaru,82341,77.4,7,Thanjavur,SC,Thanjavur,Tamil Nadu
+Sirkali,88432,76.8,8,Nagapattinam,GEN,Nagapattinam,Tamil Nadu
+Mayiladuthurai,94321,75.9,9,Mayiladuthurai,GEN,Nagapattinam,Tamil Nadu
+Poompuhar,82341,77.4,7,Mayiladuthurai,SC,Nagapattinam,Tamil Nadu
+Nagapattinam,98432,75.1,10,Nagapattinam,GEN,Nagapattinam,Tamil Nadu
+Kilvelur,78432,78.4,6,Nagapattinam,SC,Nagapattinam,Tamil Nadu
+Vedaranyam,84321,77.6,7,Nagapattinam,GEN,Nagapattinam,Tamil Nadu
+Tiruvarur,96541,75.8,9,Tiruvarur,GEN,Nagapattinam,Tamil Nadu
+Mannargudi,98432,75.3,10,Tiruvarur,GEN,Nagapattinam,Tamil Nadu
+Thiruthuraipoondi,82341,77.8,7,Tiruvarur,SC,Nagapattinam,Tamil Nadu
+Papanasam (Thanjavur),84321,77.1,7,Thanjavur,GEN,Thanjavur,Tamil Nadu
+Pattukottai,86432,76.6,8,Thanjavur,GEN,Thanjavur,Tamil Nadu
+Ariyalur,94321,73.8,11,Ariyalur,GEN,Perambalur,Tamil Nadu
+Jayankondam,86432,75.6,8,Ariyalur,SC,Perambalur,Tamil Nadu
+Perambalur,88432,75.2,9,Perambalur,GEN,Perambalur,Tamil Nadu
+Kunnam,82341,76.8,7,Perambalur,SC,Perambalur,Tamil Nadu
+Cuddalore,104321,73.4,13,Cuddalore,GEN,Cuddalore,Tamil Nadu
+Kurinjipadi,84321,76.1,8,Cuddalore,SC,Cuddalore,Tamil Nadu
+Bhuvanagiri,86432,75.8,8,Cuddalore,GEN,Cuddalore,Tamil Nadu
+Chidambaram,98432,74.6,10,Cuddalore,GEN,Chidambaram,Tamil Nadu
+Kattumannarkoil,82341,76.4,7,Cuddalore,SC,Chidambaram,Tamil Nadu
+Panruti,88432,75.6,8,Cuddalore,GEN,Cuddalore,Tamil Nadu
+Virudhachalam,94321,74.8,9,Cuddalore,GEN,Cuddalore,Tamil Nadu
+Neyveli,91234,74.3,9,Cuddalore,SC,Cuddalore,Tamil Nadu
+Tittakudi,84321,76.2,7,Cuddalore,SC,Cuddalore,Tamil Nadu
+Vridhachalam,86432,75.8,8,Cuddalore,GEN,Cuddalore,Tamil Nadu
+Maduranthakam,88432,75.4,8,Chengalpattu,GEN,Chengalpattu,Tamil Nadu
+Chengalpattu,104321,72.1,13,Chengalpattu,GEN,Chengalpattu,Tamil Nadu
+Tambaram,118432,69.4,16,Chengalpattu,GEN,Chengalpattu,Tamil Nadu
+Pallavaram,116432,69.8,15,Chengalpattu,GEN,Chennai South,Tamil Nadu
+Alandur,112432,70.4,14,Chennai,GEN,Chennai South,Tamil Nadu
+Saidapet,108432,70.8,15,Chennai,GEN,Chennai South,Tamil Nadu
+T.Nagar,116432,69.2,16,Chennai,GEN,Chennai South,Tamil Nadu
+Mylapore,112432,70.1,17,Chennai,GEN,Chennai Central,Tamil Nadu
+Royapuram,104321,71.4,14,Chennai,GEN,Chennai North,Tamil Nadu
+Harbour,98432,72.6,13,Chennai,GEN,Chennai North,Tamil Nadu
+Chepauk-Triplicane,108432,70.6,16,Chennai,SC,Chennai Central,Tamil Nadu
+Thousand Lights,104321,71.2,15,Chennai,GEN,Chennai Central,Tamil Nadu
+Anna Nagar,116432,69.4,19,Chennai,GEN,Chennai North,Tamil Nadu
+Villivakkam,108432,70.8,14,Chennai,GEN,Chennai North,Tamil Nadu
+Thiru-Vi-Ka-Nagar,104321,71.4,13,Chennai,SC,Chennai North,Tamil Nadu
+Perambur,106541,71.1,14,Chennai,GEN,Chennai North,Tamil Nadu
+Kolathur,108432,70.6,13,Chennai,GEN,Chennai North,Tamil Nadu
+Tondiarpet,98432,72.4,13,Chennai,SC,Chennai North,Tamil Nadu
+Tiruvottiyur,104321,71.6,13,Chennai,GEN,Chennai North,Tamil Nadu
+Dr.Radhakrishnan Nagar,96541,72.8,12,Chennai,GEN,Chennai North,Tamil Nadu
+Periamet,94321,73.2,12,Chennai,GEN,Chennai Central,Tamil Nadu
+Egmore,98432,72.1,13,Chennai,SC,Chennai Central,Tamil Nadu
+Shozhinganallur,112432,70.2,14,Chennai,GEN,Chennai South,Tamil Nadu
+Velachery,116432,69.6,15,Chennai,GEN,Chennai South,Tamil Nadu
+Virugambakkam,108432,70.4,14,Chennai,GEN,Chennai Central,Tamil Nadu
+Valasaravakkam,112432,70.1,14,Chennai,GEN,Chennai Central,Tamil Nadu
+Maduravoyal,106541,71.3,13,Chennai,GEN,Chennai Central,Tamil Nadu
+Ambattur,114432,70.0,14,Chennai,GEN,Chennai North,Tamil Nadu
+Avadi,108432,70.8,13,Tiruvallur,GEN,Tiruvallur,Tamil Nadu
+Madavaram,104321,71.4,13,Chennai,SC,Chennai North,Tamil Nadu
+Poonamallee,98432,72.6,11,Tiruvallur,GEN,Tiruvallur,Tamil Nadu
+Madhavaram,102341,71.8,12,Chennai,GEN,Chennai North,Tamil Nadu
+Sholinganallur,116432,69.8,15,Chennai,GEN,Chennai South,Tamil Nadu
+Perungudi,112432,70.4,14,Chennai,GEN,Chennai South,Tamil Nadu
+Wimco Nagar,94321,73.1,11,Chennai,SC,Chennai North,Tamil Nadu
+Sriperumbudur,96541,73.4,10,Kancheepuram,GEN,Sriperumbudur,Tamil Nadu
+Pallipattu,84321,76.2,8,Tiruvallur,SC,Tiruvallur,Tamil Nadu
+Kancheepuram,98432,73.8,11,Kancheepuram,GEN,Kancheepuram,Tamil Nadu
+Uthiramerur,86432,75.6,8,Kancheepuram,GEN,Kancheepuram,Tamil Nadu
+Madurantakam,88432,75.4,8,Chengalpattu,SC,Chengalpattu,Tamil Nadu
+Kunrathur,104321,71.8,13,Kancheepuram,GEN,Sriperumbudur,Tamil Nadu
+Alandur,108432,70.9,14,Kancheepuram,GEN,Chennai South,Tamil Nadu
+Thiruporur,94321,74.1,9,Chengalpattu,GEN,Chengalpattu,Tamil Nadu
+Cheyyur,82341,76.8,7,Chengalpattu,SC,Chengalpattu,Tamil Nadu
+Vandalore,88432,75.4,8,Chengalpattu,GEN,Chengalpattu,Tamil Nadu
+Maraimalainagar,94321,74.3,9,Chengalpattu,GEN,Chengalpattu,Tamil Nadu
+Pondur,84321,76.1,7,Chengalpattu,SC,Chengalpattu,Tamil Nadu
+Sivaganga,96541,74.6,10,Sivaganga,GEN,Sivaganga,Tamil Nadu
+Manamadurai,84321,76.4,7,Sivaganga,GEN,Sivaganga,Tamil Nadu
+Tiruppuvanam,88432,75.8,8,Sivaganga,SC,Sivaganga,Tamil Nadu
+Karaikudi,94321,74.3,10,Sivaganga,GEN,Sivaganga,Tamil Nadu
+Tiruppattur,84321,76.1,7,Sivaganga,SC,Sivaganga,Tamil Nadu
+Paramakudi,88432,75.6,8,Ramanathapuram,SC,Ramanathapuram,Tamil Nadu
+Tiruvadanai,82341,77.1,7,Ramanathapuram,GEN,Ramanathapuram,Tamil Nadu
+Ramanathapuram,94321,74.8,10,Ramanathapuram,GEN,Ramanathapuram,Tamil Nadu
+Mudukulathur,84321,76.4,7,Ramanathapuram,SC,Ramanathapuram,Tamil Nadu
+Virudhunagar,98432,74.1,11,Virudhunagar,GEN,Virudhunagar,Tamil Nadu
+Aruppukkottai,88432,75.6,8,Virudhunagar,GEN,Virudhunagar,Tamil Nadu
+Rajapalayam,96541,74.3,10,Virudhunagar,GEN,Virudhunagar,Tamil Nadu
+Srivilliputhur,88432,75.8,8,Virudhunagar,SC,Virudhunagar,Tamil Nadu
+Sattur,84321,76.4,7,Virudhunagar,GEN,Virudhunagar,Tamil Nadu
+Sivakasi,98432,74.6,11,Virudhunagar,GEN,Virudhunagar,Tamil Nadu
+Tiruchuli,82341,77.2,6,Virudhunagar,GEN,Virudhunagar,Tamil Nadu
+Sankarankovil,94321,75.1,9,Tenkasi,SC,Tenkasi,Tamil Nadu
+Tenkasi,96541,74.8,10,Tenkasi,GEN,Tenkasi,Tamil Nadu
+Alangulam,84321,76.6,7,Tenkasi,GEN,Tenkasi,Tamil Nadu
+Vriddhachalam,88432,75.8,8,Cuddalore,GEN,Cuddalore,Tamil Nadu
+Kadayanallur,94321,75.3,9,Tenkasi,SC,Tenkasi,Tamil Nadu
+Ambasamudram,88432,75.8,8,Tirunelveli,GEN,Tirunelveli,Tamil Nadu
+Palayamkottai,104321,72.4,13,Tirunelveli,GEN,Tirunelveli,Tamil Nadu
+Nanguneri,82341,77.4,7,Tirunelveli,GEN,Tirunelveli,Tamil Nadu
+Radhapuram,84321,76.9,7,Tirunelveli,SC,Tirunelveli,Tamil Nadu
+Tirunelveli,108432,72.8,14,Tirunelveli,GEN,Tirunelveli,Tamil Nadu
+Thoothukudi,106541,73.1,13,Thoothukudi,GEN,Thoothukudi,Tamil Nadu
+Tiruchendur,94321,75.4,9,Thoothukudi,GEN,Thoothukudi,Tamil Nadu
+Srivaikundam,86432,76.4,8,Thoothukudi,SC,Thoothukudi,Tamil Nadu
+Ottapidaram,84321,76.8,7,Thoothukudi,GEN,Thoothukudi,Tamil Nadu
+Kovilpatti,98432,74.6,10,Thoothukudi,GEN,Thoothukudi,Tamil Nadu
+Erachakulam,82341,77.4,6,Kanyakumari,SC,Nagercoil,Tamil Nadu
+Padmanabhapuram,88432,76.1,7,Kanyakumari,GEN,Nagercoil,Tamil Nadu
+Vilavancode,84321,76.8,7,Kanyakumari,GEN,Nagercoil,Tamil Nadu
+Colachel,86432,76.4,8,Kanyakumari,GEN,Nagercoil,Tamil Nadu
+Nagercoil,104321,73.2,12,Kanyakumari,GEN,Nagercoil,Tamil Nadu
+Killiyoor,82341,77.1,7,Kanyakumari,SC,Nagercoil,Tamil Nadu
+Madurai East,108432,72.4,14,Madurai,GEN,Madurai,Tamil Nadu
+Sholavandan,84321,76.2,7,Madurai,SC,Madurai,Tamil Nadu
+Madurai South,112432,71.8,15,Madurai,GEN,Madurai,Tamil Nadu
+Madurai Central,116432,70.9,21,Madurai,GEN,Madurai,Tamil Nadu
+Madurai North,108432,72.1,14,Madurai,GEN,Madurai,Tamil Nadu
+Madurai West,104321,72.6,13,Madurai,GEN,Madurai,Tamil Nadu
+Thiruparankundram,94321,74.8,9,Madurai,SC,Madurai,Tamil Nadu
+Thirumangalam,96541,74.3,10,Madurai,GEN,Madurai,Tamil Nadu
+Usilampatti,84321,76.4,7,Madurai,SC,Madurai,Tamil Nadu
+Andipatti,86432,75.8,8,Theni,GEN,Theni,Tamil Nadu
+Theni,98432,74.1,12,Theni,GEN,Theni,Tamil Nadu
+Bodinayakkanur,96541,74.6,10,Theni,GEN,Theni,Tamil Nadu
+Cumbum,88432,75.6,8,Theni,SC,Theni,Tamil Nadu
+Melur,84321,76.2,7,Madurai,GEN,Madurai,Tamil Nadu

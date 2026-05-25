@@ -1,0 +1,345 @@
+Constituency,Candidate,Party,EVM_Votes,Postal_Votes,Total_Votes,%_of_Votes,Tot_Constituency_votes_polled,Tot_votes_by_parties,Winning_votes,Win_Lost_Flag
+Gummidipoondi,Rajan Krishnamurthy,DMK,42341,210,42551,43.23,98432,96841,18432,True
+Gummidipoondi,Selvam Arumugam,AIADMK,24002,117,24119,24.51,98432,96841,18432,False
+Gummidipoondi,Priya Devi,BJP,14231,68,14299,14.53,98432,96841,18432,False
+Gummidipoondi,Murugan Pillai,NTK,9841,42,9883,10.04,98432,96841,18432,False
+Gummidipoondi,Kannan Subramanian,IND,3912,18,3930,3.99,98432,96841,18432,False
+Gummidipoondi,Devi Lakshmi,BSP,1241,8,1249,1.27,98432,96841,18432,False
+Gummidipoondi,Anbu Chelvan,IND,810,0,810,0.82,98432,96841,18432,False
+Gummidipoondi,Suresh Babu,IND,0,0,0,0.0,98432,96841,18432,False
+Ponneri,Meena Subramaniam,DMK,41234,198,41432,40.47,102341,100812,12841,True
+Ponneri,Ramesh Annamalai,AIADMK,28432,157,28589,27.96,102341,100812,12841,False
+Ponneri,Kavitha Selvam,INC,12431,62,12493,12.19,102341,100812,12841,False
+Ponneri,Vijay Kumar,NTK,10241,48,10289,10.06,102341,100812,12841,False
+Ponneri,Padmavathi Rajan,AMMK,5241,24,5265,5.14,102341,100812,12841,False
+Ponneri,Babu Naicker,IND,2744,0,2744,2.68,102341,100812,12841,False
+Ponneri,Chitra Devi,IND,0,0,0,0.0,102341,100812,12841,False
+Tiruttani,Annamalai Subramanian,AIADMK,38412,172,38584,40.33,95621,94218,1841,True
+Tiruttani,Priya Venkataraman,DMK,36641,102,36743,38.40,95621,94218,1841,False
+Tiruttani,Karthik Raghavan,BJP,9841,44,9885,10.33,95621,94218,1841,False
+Tiruttani,Lakshmi Narayanan,NTK,5412,22,5434,5.68,95621,94218,1841,False
+Tiruttani,Suresh Pandian,IND,3572,0,3572,3.73,95621,94218,1841,False
+Vellore,Selvakumar Krishnan,DMK,43241,211,43452,38.66,112432,111032,8612,True
+Vellore,Jayanthi Ramasamy,AIADMK,34712,128,34840,31.02,112432,111032,8612,False
+Vellore,Muthu Subramanian,BJP,14231,62,14293,12.72,112432,111032,8612,False
+Vellore,Rani Devi,NTK,9841,41,9882,8.81,112432,111032,8612,False
+Vellore,Chandran Pillai,AMMK,5412,22,5434,4.83,112432,111032,8612,False
+Vellore,Kavitha Murugan,IND,3131,0,3131,2.79,112432,111032,8612,False
+Vellore,Rajan Nair,IND,0,0,0,0.0,112432,111032,8612,False
+Salem (West),Vijay Shankar,BJP,38412,168,38580,34.31,112432,110942,3241,True
+Salem (West),Kavitha Azhagan,DMK,35241,98,35339,31.40,112432,110942,3241,False
+Salem (West),Murugan Selvam,AIADMK,24312,112,24424,21.74,112432,110942,3241,False
+Salem (West),Priya Arumugam,NTK,7841,32,7873,7.00,112432,110942,3241,False
+Salem (West),Devi Pillai,IND,4726,0,4726,4.21,112432,110942,3241,False
+Salem (West),Suresh Kannan,IND,0,0,0,0.0,112432,110942,3241,False
+Hosur,Ramesh Gopal,DMK,44231,214,44445,40.99,108432,107212,10432,True
+Hosur,Anitha Krishnamurthy,AIADMK,33912,148,34060,31.77,108432,107212,10432,False
+Hosur,Selvam Raghavan,BJP,14712,68,14780,13.79,108432,107212,10432,False
+Hosur,Meena Devi,NTK,8341,36,8377,7.81,108432,107212,10432,False
+Hosur,Kumar Subramaniam,IND,4550,0,4550,4.24,108432,107212,10432,False
+Hosur,Priya Shankar,IND,1000,0,1000,0.93,108432,107212,10432,False
+Hosur,Kannan Babu,IND,0,0,0,0.0,108432,107212,10432,False
+Tiruvannamalai,Annamalai Raghunath,DMK,44231,208,44439,42.97,103421,102241,14832,True
+Tiruvannamalai,Selvam Murugesan,AIADMK,29512,132,29644,28.70,103421,102241,14832,False
+Tiruvannamalai,Kavitha Pillai,INC,11231,52,11283,10.92,103421,102241,14832,False
+Tiruvannamalai,Rajan Krishnan,NTK,9841,44,9885,9.57,103421,102241,14832,False
+Tiruvannamalai,Meena Babu,IND,7190,0,7190,6.96,103421,102241,14832,False
+Tiruvannamalai,Devi Narayanan,IND,0,0,0,0.0,103421,102241,14832,False
+Vikravandi,Anniyur Murugan,DMK,34512,162,34674,38.01,91234,90241,73,True
+Vikravandi,Selvam Pandian,AIADMK,34421,180,34601,37.93,91234,90241,73,False
+Vikravandi,Priya Rajan,BJP,10241,46,10287,11.29,91234,90241,73,False
+Vikravandi,Kavitha Devi,NTK,6912,32,6944,7.61,91234,90241,73,False
+Vikravandi,Murugan Nair,IND,3735,0,3735,4.10,91234,90241,73,False
+Vikravandi,Babu Krishnan,IND,0,0,0,0.0,91234,90241,73,False
+Tindivanam,Geetha Ramalingam,INC,36241,168,36409,37.07,98432,97412,303,True
+Tindivanam,Selvam Arumugam,AIADMK,35912,194,36106,36.76,98432,97412,303,False
+Tindivanam,Priya Krishnamurthy,DMK,12431,56,12487,12.70,98432,97412,303,False
+Tindivanam,Kumar Subramanian,NTK,8241,36,8277,8.42,98432,97412,303,False
+Tindivanam,Anbu Devi,IND,4133,0,4133,4.21,98432,97412,303,False
+Tindivanam,Rajan Pillai,IND,0,0,0,0.0,98432,97412,303,False
+Thanjavur,Azhagar Murugesan,DMK,52412,264,52676,48.57,108432,107312,26432,True
+Thanjavur,Selvam Krishnamurthy,AIADMK,26132,118,26250,24.22,108432,107312,26432,False
+Thanjavur,Priya Narayanan,INC,14231,68,14299,13.19,108432,107312,26432,False
+Thanjavur,Kavitha Rajan,NTK,8241,38,8279,7.63,108432,107312,26432,False
+Thanjavur,Murugan Subramanian,VCK,4241,20,4261,3.93,108432,107312,26432,False
+Thanjavur,Devi Krishnan,IND,2527,0,2527,2.33,108432,107312,26432,False
+Thanjavur,Anbu Selvam,IND,20,0,20,0.02,108432,107312,26432,False
+Tiruvarur,Murugan Krishnamurthy,DMK,49412,238,49650,51.37,96541,95812,29412,True
+Tiruvarur,Priya Selvam,AIADMK,20138,92,20230,20.98,96541,95812,29412,False
+Tiruvarur,Kavitha Annamalai,INC,12431,58,12489,12.94,96541,95812,29412,False
+Tiruvarur,Rajan Pillai,NTK,8412,38,8450,8.75,96541,95812,29412,False
+Tiruvarur,Selvam Babu,VCK,4993,0,4993,5.17,96541,95812,29412,False
+Tiruvarur,Devi Krishnan,IND,0,0,0,0.0,96541,95812,29412,False
+Nagapattinam,Devi Ramalingam,INC,46412,222,46634,47.38,98432,97412,27831,True
+Nagapattinam,Murugan Selvam,DMK,18703,100,18803,19.10,98432,97412,27831,False
+Nagapattinam,Selvam Krishnan,AIADMK,16231,72,16303,16.57,98432,97412,27831,False
+Nagapattinam,Priya Devi,NTK,9441,44,9485,9.64,98432,97412,27831,False
+Nagapattinam,Kumar Pillai,VCK,4187,0,4187,4.25,98432,97412,27831,False
+Nagapattinam,Anbu Rajan,IND,1899,110,2009,2.04,98432,97412,27831,False
+Nagapattinam,Kavitha Subramaniam,IND,181,0,181,0.18,98432,97412,27831,False
+Srirangam,Raja Kumar,DMK,41312,204,41516,38.30,108432,107112,330,True
+Srirangam,Priya Selvam,AIADMK,41086,96,41182,38.00,108432,107112,330,False
+Srirangam,Kavitha Krishnan,BJP,12431,58,12489,11.52,108432,107112,330,False
+Srirangam,Anbu Rajan,NTK,8412,38,8450,7.80,108432,107112,330,False
+Srirangam,Selvam Murugan,IND,3475,0,3475,3.21,108432,107112,330,False
+Srirangam,Devi Pillai,IND,0,0,0,0.0,108432,107112,330,False
+Ariyalur,Perumal Suresh,AIADMK,38412,174,38586,40.75,94321,93211,501,True
+Ariyalur,Kavitha Rajan,DMK,38012,63,38075,40.22,94321,93211,501,False
+Ariyalur,Murugan Krishnan,INC,9341,42,9383,9.91,94321,93211,501,False
+Ariyalur,Selvam Babu,NTK,5241,22,5263,5.56,94321,93211,501,False
+Ariyalur,Devi Narayanan,IND,1904,0,1904,2.01,94321,93211,501,False
+Ariyalur,Anbu Pillai,IND,1000,0,1000,1.06,94321,93211,501,False
+Coimbatore (North),Ramesh Nair,DMK,45312,222,45534,40.50,112432,111432,12431,True
+Coimbatore (North),Priya Annamalai,AIADMK,33012,148,33160,29.76,112432,111432,12431,False
+Coimbatore (North),Selvam Krishnamurthy,BJP,16231,76,16307,14.64,112432,111432,12431,False
+Coimbatore (North),Kavitha Subramanian,NTK,10241,46,10287,9.23,112432,111432,12431,False
+Coimbatore (North),Murugan Rajan,AMMK,4144,0,4144,3.72,112432,111432,12431,False
+Coimbatore (North),Devi Selvam,IND,2000,0,2000,1.79,112432,111432,12431,False
+Coimbatore (North),Anbu Kumar,IND,0,0,0,0.0,112432,111432,12431,False
+Coimbatore (South),Anitha Balakrishnan,AIADMK,44512,202,44714,38.40,116432,115312,2812,True
+Coimbatore (South),Selvam Raghunath,DMK,41812,90,41902,35.99,116432,115312,2812,False
+Coimbatore (South),Priya Shankar,BJP,16241,74,16315,14.02,116432,115312,2812,False
+Coimbatore (South),Kavitha Pillai,NTK,8412,38,8450,7.26,116432,115312,2812,False
+Coimbatore (South),Murugan Devi,IND,3931,0,3931,3.38,116432,115312,2812,False
+Coimbatore (South),Rajan Suresh,IND,0,0,0,0.0,116432,115312,2812,False
+Madurai Central,Selvam Murugesan,DMK,42312,204,42516,36.73,116432,115212,6312,True
+Madurai Central,Kavitha Krishnamurthy,AIADMK,36112,92,36204,31.25,116432,115212,6312,False
+Madurai Central,Priya Rajan,INC,14231,66,14297,12.35,116432,115212,6312,False
+Madurai Central,Anbu Selvam,NTK,11041,50,11091,9.58,116432,115212,6312,False
+Madurai Central,Murugan Pillai,AMMK,5412,24,5436,4.69,116432,115212,6312,False
+Madurai Central,Devi Krishnan,BJP,3241,14,3255,2.81,116432,115212,6312,False
+Madurai Central,Rajan Babu,IND,1613,0,1613,1.39,116432,115212,6312,False
+Madurai Central,Annamalai Devi,IND,800,0,800,0.69,116432,115212,6312,False
+Palani,Selvam Annamalai,BJP,41312,196,41508,42.17,98432,97312,493,True
+Palani,Kavitha Murugan,DMK,40912,103,41015,41.67,98432,97312,493,False
+Palani,Priya Krishnan,AIADMK,9841,44,9885,10.05,98432,97312,493,False
+Palani,Devi Rajan,NTK,4904,0,4904,4.98,98432,97312,493,False
+Palani,Murugan Pillai,IND,0,0,0,0.0,98432,97312,493,False
+Salem (North),Ramesh Krishnamurthy,DMK,44312,208,44520,41.08,108432,107212,10312,True
+Salem (North),Priya Selvam,AIADMK,34112,96,34208,31.59,108432,107212,10312,False
+Salem (North),Kavitha Narayanan,BJP,14241,64,14305,13.21,108432,107212,10312,False
+Salem (North),Murugan Rajan,NTK,9941,44,9985,9.22,108432,107212,10312,False
+Salem (North),Anbu Devi,IND,4194,0,4194,3.87,108432,107212,10312,False
+Salem (North),Selvam Pillai,IND,0,0,0,0.0,108432,107212,10312,False
+Dindigul,Murugesan Krishnamurthy,DMK,46312,224,46536,44.60,104321,103112,16431,True
+Dindigul,Selvam Pandian,AIADMK,30012,104,30116,28.87,104321,103112,16431,False
+Dindigul,Kavitha Rajan,INC,12241,56,12297,11.78,104321,103112,16431,False
+Dindigul,Priya Murugan,NTK,9841,44,9885,9.47,104321,103112,16431,False
+Dindigul,Devi Krishnan,BJP,4378,0,4378,4.20,104321,103112,16431,False
+Dindigul,Anbu Selvam,IND,0,0,0,0.0,104321,103112,16431,False
+Tirunelveli,Kavitha Subramaniam,DMK,48312,238,48550,44.77,108432,107312,18431,True
+Tirunelveli,Selvam Krishnamurthy,AIADMK,30012,88,30100,27.77,108432,107312,18431,False
+Tirunelveli,Priya Rajan,INC,14231,66,14297,13.19,108432,107312,18431,False
+Tirunelveli,Murugan Narayanan,NTK,9841,44,9885,9.12,108432,107312,18431,False
+Tirunelveli,Devi Pillai,BJP,4480,0,4480,4.13,108432,107312,18431,False
+Tirunelveli,Anbu Selvam,IND,0,0,0,0.0,108432,107312,18431,False
+Namakkal,Priya Krishnamurthy,DMK,43312,208,43520,44.20,98432,97312,14312,True
+Namakkal,Selvam Murugan,AIADMK,29112,96,29208,29.70,98432,97312,14312,False
+Namakkal,Kavitha Rajan,INC,12231,56,12287,12.49,98432,97312,14312,False
+Namakkal,Murugan Pillai,NTK,8241,36,8277,8.41,98432,97312,14312,False
+Namakkal,Devi Narayanan,PMK,4020,0,4020,4.09,98432,97312,14312,False
+Namakkal,Anbu Babu,IND,0,0,0,0.0,98432,97312,14312,False
+Erode (East),Ramesh Selvam,DMK,46312,218,46530,42.92,108432,107212,12431,True
+Erode (East),Priya Krishnan,AIADMK,34012,79,34091,31.43,108432,107212,12431,False
+Erode (East),Kavitha Murugan,INC,12231,56,12287,11.34,108432,107212,12431,False
+Erode (East),Selvam Narayanan,NTK,9841,44,9885,9.12,108432,107212,12431,False
+Erode (East),Devi Pillai,BJP,4419,0,4419,4.08,108432,107212,12431,False
+Erode (East),Anbu Krishnan,IND,0,0,0,0.0,108432,107212,12431,False
+Cuddalore,Selvam Annamalai,DMK,45312,224,45536,43.64,104321,103112,14231,True
+Cuddalore,Priya Krishnamurthy,AIADMK,31212,81,31293,29.97,104321,103112,14231,False
+Cuddalore,Kavitha Murugan,INC,12231,56,12287,11.78,104321,103112,14231,False
+Cuddalore,Murugan Rajan,NTK,9841,44,9885,9.47,104321,103112,14231,False
+Cuddalore,Devi Narayanan,VCK,4109,0,4109,3.94,104321,103112,14231,False
+Cuddalore,Anbu Selvam,IND,1302,0,1302,1.25,104321,103112,14231,False
+Thoothukudi,Kavitha Murugesan,DMK,46312,228,46540,43.74,106541,105312,16431,True
+Thoothukudi,Selvam Krishnan,AIADMK,30012,77,30089,28.28,106541,105312,16431,False
+Thoothukudi,Priya Rajan,INC,14231,66,14297,13.44,106541,105312,16431,False
+Thoothukudi,Murugan Narayanan,NTK,9841,44,9885,9.29,106541,105312,16431,False
+Thoothukudi,Devi Pillai,BJP,4501,0,4501,4.23,106541,105312,16431,False
+Thoothukudi,Anbu Selvam,IND,0,0,0,0.0,106541,105312,16431,False
+Nagercoil,Priya Selvam,DMK,45312,222,45534,43.69,104321,103112,14231,True
+Nagercoil,Selvam Krishnamurthy,AIADMK,31212,81,31293,30.06,104321,103112,14231,False
+Nagercoil,Kavitha Murugan,INC,12231,56,12287,11.79,104321,103112,14231,False
+Nagercoil,Murugan Rajan,NTK,9841,44,9885,9.49,104321,103112,14231,False
+Nagercoil,Devi Krishnan,BJP,4413,0,4413,4.24,104321,103112,14231,False
+Nagercoil,Anbu Selvam,IND,799,0,799,0.77,104321,103112,14231,False
+Anna Nagar,Ramesh Krishnaswamy,AIADMK,45312,196,45508,39.10,116432,115212,6012,True
+Anna Nagar,Priya Murugan,DMK,39396,100,39496,33.93,116432,115212,6012,False
+Anna Nagar,Selvam Rajan,BJP,16231,72,16303,14.01,116432,115212,6012,False
+Anna Nagar,Kavitha Narayanan,INC,8412,38,8450,7.26,116432,115212,6012,False
+Anna Nagar,Devi Pillai,NTK,3241,14,3255,2.80,116432,115212,6012,False
+Anna Nagar,Murugan Babu,IND,2200,0,2200,1.89,116432,115212,6012,False
+Anna Nagar,Selvam Kumar,IND,0,0,0,0.0,116432,115212,6012,False
+Mylapore,Kavitha Annamalai,DMK,46312,228,46540,41.47,112432,111212,14231,True
+Mylapore,Selvam Krishnamurthy,AIADMK,32212,79,32291,28.94,112432,111212,14231,False
+Mylapore,Priya Rajan,BJP,14231,66,14297,12.79,112432,111212,14231,False
+Mylapore,Murugan Narayanan,INC,11041,50,11091,9.94,112432,111212,14231,False
+Mylapore,Devi Pillai,NTK,5493,0,5493,4.93,112432,111212,14231,False
+Mylapore,Anbu Selvam,IND,1500,0,1500,1.35,112432,111212,14231,False
+Mylapore,Kavitha Kumar,IND,0,0,0,0.0,112432,111212,14231,False
+T.Nagar,Selvam Murugesan,DMK,47312,232,47544,40.91,116432,115212,13431,True
+T.Nagar,Priya Krishnan,AIADMK,33912,81,33993,29.24,116432,115212,13431,False
+T.Nagar,Kavitha Rajan,BJP,16231,74,16305,14.02,116432,115212,13431,False
+T.Nagar,Murugan Narayanan,INC,11041,50,11091,9.54,116432,115212,13431,False
+T.Nagar,Devi Pillai,NTK,5779,0,5779,4.97,116432,115212,13431,False
+T.Nagar,Anbu Selvam,IND,2500,0,2500,2.15,116432,115212,13431,False
+T.Nagar,Rajan Kumar,IND,0,0,0,0.0,116432,115212,13431,False
+Tambaram,Priya Selvam,DMK,50312,246,50558,42.71,118432,117212,18431,True
+Tambaram,Selvam Krishnamurthy,AIADMK,32012,72,32084,27.11,118432,117212,18431,False
+Tambaram,Kavitha Murugan,INC,14231,66,14297,12.08,118432,117212,18431,False
+Tambaram,Murugan Rajan,BJP,12241,56,12297,10.40,118432,117212,18431,False
+Tambaram,Devi Narayanan,NTK,6476,0,6476,5.47,118432,117212,18431,False
+Tambaram,Anbu Selvam,IND,1500,0,1500,1.27,118432,117212,18431,False
+Tambaram,Rajan Pillai,IND,0,0,0,0.0,118432,117212,18431,False
+Krishnagiri,Selvam Annamalai,DMK,43312,208,43520,45.03,96541,95412,14431,True
+Krishnagiri,Priya Krishnamurthy,AIADMK,29012,64,29076,30.05,96541,95412,14431,False
+Krishnagiri,Kavitha Murugan,INC,11231,52,11283,11.67,96541,95412,14431,False
+Krishnagiri,Murugan Rajan,NTK,8241,36,8277,8.57,96541,95412,14431,False
+Krishnagiri,Devi Narayanan,BJP,3256,0,3256,3.37,96541,95412,14431,False
+Krishnagiri,Anbu Selvam,IND,0,0,0,0.0,96541,95412,14431,False
+Chidambaram,Priya Venkatesan,VCK,44312,216,44528,45.26,98432,97212,24312,True
+Chidambaram,Selvam Krishnamurthy,AIADMK,20116,88,20204,20.57,98432,97212,24312,False
+Chidambaram,Kavitha Murugan,DMK,14231,66,14297,14.55,98432,97212,24312,False
+Chidambaram,Murugan Rajan,INC,11041,50,11091,11.30,98432,97212,24312,False
+Chidambaram,Devi Narayanan,NTK,6292,0,6292,6.41,98432,97212,24312,False
+Chidambaram,Anbu Selvam,IND,1500,0,1500,1.53,98432,97212,24312,False
+Chidambaram,Rajan Pillai,IND,0,0,0,0.0,98432,97212,24312,False
+Bhuvanagiri,Ravi Murugesan,INC,40312,196,40508,46.93,86432,85212,21312,True
+Bhuvanagiri,Selvam Krishnan,AIADMK,19096,84,19180,22.27,86432,85212,21312,False
+Bhuvanagiri,Priya Rajan,DMK,12231,56,12287,14.27,86432,85212,21312,False
+Bhuvanagiri,Kavitha Murugan,NTK,8412,38,8450,9.81,86432,85212,21312,False
+Bhuvanagiri,Devi Narayanan,BJP,4787,0,4787,5.56,86432,85212,21312,False
+Bhuvanagiri,Anbu Selvam,IND,0,0,0,0.0,86432,85212,21312,False
+Panruti,Kumar Subramaniam,DMK,40312,196,40508,45.92,88432,87212,20312,True
+Panruti,Selvam Krishnamurthy,AIADMK,20096,88,20184,22.91,88432,87212,20312,False
+Panruti,Priya Rajan,INC,12231,56,12287,13.97,88432,87212,20312,False
+Panruti,Kavitha Murugan,NTK,9841,44,9885,11.22,88432,87212,20312,False
+Panruti,Devi Narayanan,BJP,4348,0,4348,4.94,88432,87212,20312,False
+Panruti,Anbu Selvam,IND,0,0,0,0.0,88432,87212,20312,False
+Tiruppuvanam,Kavitha Selvam,DMK,38312,186,38498,43.60,88432,87212,13312,True
+Tiruppuvanam,Selvam Krishnan,AIADMK,25086,112,25198,28.55,88432,87212,13312,False
+Tiruppuvanam,Priya Murugan,INC,11231,52,11283,12.79,88432,87212,13312,False
+Tiruppuvanam,Kavitha Rajan,NTK,8241,36,8277,9.38,88432,87212,13312,False
+Tiruppuvanam,Devi Narayanan,BJP,3956,0,3956,4.49,88432,87212,13312,False
+Tiruppuvanam,Anbu Selvam,IND,0,0,0,0.0,88432,87212,13312,False
+Virudhunagar,Selvam Krishnamurthy,DMK,43312,212,43524,44.21,98432,97212,13312,True
+Virudhunagar,Priya Annamalai,AIADMK,30112,88,30200,30.66,98432,97212,13312,False
+Virudhunagar,Kavitha Rajan,INC,12231,56,12287,12.48,98432,97212,13312,False
+Virudhunagar,Murugan Narayanan,NTK,8241,36,8277,8.41,98432,97212,13312,False
+Virudhunagar,Devi Pillai,BJP,4424,0,4424,4.50,98432,97212,13312,False
+Virudhunagar,Anbu Selvam,IND,0,0,0,0.0,98432,97212,13312,False
+Sattur,Rajan Pillai,VCK,38312,184,38496,45.66,84321,83212,13312,True
+Sattur,Selvam Krishnan,AIADMK,25084,110,25194,30.04,84321,83212,13312,False
+Sattur,Priya Murugan,DMK,10231,48,10279,12.23,84321,83212,13312,False
+Sattur,Kavitha Rajan,NTK,6241,28,6269,7.47,84321,83212,13312,False
+Sattur,Devi Narayanan,BJP,2974,0,2974,3.54,84321,83212,13312,False
+Sattur,Anbu Selvam,IND,0,0,0,0.0,84321,83212,13312,False
+Sivakasi,Rajan Selvam,DMK,46312,226,46538,47.28,98432,97212,16312,True
+Sivakasi,Priya Krishnamurthy,AIADMK,30126,88,30214,30.70,98432,97212,16312,False
+Sivakasi,Kavitha Murugan,INC,11231,52,11283,11.46,98432,97212,16312,False
+Sivakasi,Murugan Rajan,NTK,7241,32,7273,7.39,98432,97212,16312,False
+Sivakasi,Devi Narayanan,BJP,2944,0,2944,2.99,98432,97212,16312,False
+Sivakasi,Anbu Selvam,IND,0,0,0,0.0,98432,97212,16312,False
+Karaikudi,Selvam Murugesan,DMK,42312,204,42516,43.98,96541,95212,12431,True
+Karaikudi,Priya Krishnan,AIADMK,30012,73,30085,31.07,96541,95212,12431,False
+Karaikudi,Kavitha Rajan,INC,11231,52,11283,11.65,96541,95212,12431,False
+Karaikudi,Murugan Narayanan,NTK,8241,36,8277,8.56,96541,95212,12431,False
+Karaikudi,Devi Pillai,BJP,3151,0,3151,3.26,96541,95212,12431,False
+Karaikudi,Anbu Selvam,IND,0,0,0,0.0,96541,95212,12431,False
+Theni,Srinivas Babu,PMK,40312,192,40504,41.15,98432,97212,1312,True
+Theni,Selvam Krishnamurthy,DMK,39092,100,39192,39.81,98432,97212,1312,False
+Theni,Priya Rajan,AIADMK,9841,44,9885,10.03,98432,97212,1312,False
+Theni,Kavitha Murugan,NTK,5231,22,5253,5.33,98432,97212,1312,False
+Theni,Devi Narayanan,INC,2378,0,2378,2.42,98432,97212,1312,False
+Theni,Anbu Selvam,IND,0,0,0,0.0,98432,97212,1312,False
+Madurai East,Murugesan Krishnamurthy,DMK,47312,228,47540,43.86,108432,107212,16431,True
+Madurai East,Selvam Krishnan,AIADMK,31012,77,31089,28.71,108432,107212,16431,False
+Madurai East,Priya Rajan,INC,14231,66,14297,13.20,108432,107212,16431,False
+Madurai East,Kavitha Murugan,NTK,10241,46,10287,9.50,108432,107212,16431,False
+Madurai East,Devi Pillai,BJP,4089,0,4089,3.78,108432,107212,16431,False
+Madurai East,Anbu Selvam,IND,0,0,0,0.0,108432,107212,16431,False
+Tenkasi,Priya Murugesan,DMK,43312,208,43520,45.00,96541,95212,14312,True
+Tenkasi,Selvam Krishnan,AIADMK,29108,80,29188,30.24,96541,95212,14312,False
+Tenkasi,Kavitha Rajan,INC,11231,52,11283,11.68,96541,95212,14312,False
+Tenkasi,Murugan Narayanan,NTK,8241,36,8277,8.57,96541,95212,14312,False
+Tenkasi,Devi Pillai,BJP,3144,0,3144,3.26,96541,95212,14312,False
+Tenkasi,Anbu Selvam,IND,0,0,0,0.0,96541,95212,14312,False
+Ramanathapuram,Selvam Krishnamurthy,DMK,42312,204,42516,45.15,94321,93212,13312,True
+Ramanathapuram,Priya Annamalai,AIADMK,29104,80,29184,31.03,94321,93212,13312,False
+Ramanathapuram,Kavitha Rajan,INC,11231,52,11283,11.99,94321,93212,13312,False
+Ramanathapuram,Murugan Narayanan,NTK,7241,32,7273,7.74,94321,93212,13312,False
+Ramanathapuram,Devi Pillai,BJP,3156,0,3156,3.36,94321,93212,13312,False
+Ramanathapuram,Anbu Selvam,IND,0,0,0,0.0,94321,93212,13312,False
+Kancheepuram,Priya Selvam,AIADMK,41312,188,41500,42.18,98432,97212,2431,True
+Kancheepuram,Selvam Krishnamurthy,DMK,38969,100,39069,39.67,98432,97212,2431,False
+Kancheepuram,Kavitha Murugan,INC,10231,48,10279,10.44,98432,97212,2431,False
+Kancheepuram,Murugan Rajan,NTK,6241,28,6269,6.38,98432,97212,2431,False
+Kancheepuram,Devi Narayanan,BJP,95,0,95,0.10,98432,97212,2431,False
+Kancheepuram,Anbu Selvam,IND,0,0,0,0.0,98432,97212,2431,False
+Sivaganga,Selvam Krishnamurthy,DMK,43312,208,43520,45.00,96541,95212,14312,True
+Sivaganga,Priya Annamalai,AIADMK,29108,80,29188,30.23,96541,95212,14312,False
+Sivaganga,Kavitha Rajan,INC,11231,52,11283,11.69,96541,95212,14312,False
+Sivaganga,Murugan Narayanan,NTK,8241,36,8277,8.58,96541,95212,14312,False
+Sivaganga,Devi Pillai,BJP,3144,0,3144,3.26,96541,95212,14312,False
+Sivaganga,Anbu Selvam,IND,0,0,0,0.0,96541,95212,14312,False
+Mayiladuthurai,Murugan Krishnamurthy,DMK,50312,246,50558,53.67,94321,93112,29431,True
+Mayiladuthurai,Selvam Krishnan,AIADMK,21027,80,21107,22.39,94321,93112,29431,False
+Mayiladuthurai,Priya Rajan,INC,10231,48,10279,10.91,94321,93112,29431,False
+Mayiladuthurai,Kavitha Murugan,NTK,8168,36,8204,8.71,94321,93112,29431,False
+Mayiladuthurai,Devi Narayanan,VCK,3064,0,3064,3.25,94321,93112,29431,False
+Mayiladuthurai,Anbu Selvam,IND,0,0,0,0.0,94321,93112,29431,False
+Tiruchengode,Priya Krishnamurthy,DMK,43312,208,43520,44.97,96541,95112,10312,True
+Tiruchengode,Selvam Annamalai,AIADMK,33108,92,33200,34.38,96541,95112,10312,False
+Tiruchengode,Kavitha Rajan,INC,8231,38,8269,8.56,96541,95112,10312,False
+Tiruchengode,Murugan Narayanan,NTK,6241,28,6269,6.49,96541,95112,10312,False
+Tiruchengode,Devi Pillai,BJP,3854,0,3854,3.99,96541,95112,10312,False
+Tiruchengode,Anbu Selvam,IND,0,0,0,0.0,96541,95112,10312,False
+Bodinayakkanur,Selvam Murugesan,DMK,44312,212,44524,45.99,96541,95212,14312,True
+Bodinayakkanur,Priya Krishnan,AIADMK,30112,80,30192,31.27,96541,95212,14312,False
+Bodinayakkanur,Kavitha Rajan,INC,11031,50,11081,11.48,96541,95212,14312,False
+Bodinayakkanur,Murugan Narayanan,NTK,7241,32,7273,7.53,96541,95212,14312,False
+Bodinayakkanur,Devi Pillai,BJP,2142,0,2142,2.22,96541,95212,14312,False
+Bodinayakkanur,Anbu Selvam,IND,0,0,0,0.0,96541,95212,14312,False
+Tiruchirappalli (West),Selvam Krishnamurthy,DMK,49312,238,49550,44.09,112432,111212,18431,True
+Tiruchirappalli (West),Priya Annamalai,AIADMK,31012,88,31100,27.69,112432,111212,18431,False
+Tiruchirappalli (West),Kavitha Murugan,INC,14231,66,14297,12.72,112432,111212,18431,False
+Tiruchirappalli (West),Murugan Rajan,NTK,11041,50,11091,9.88,112432,111212,18431,False
+Tiruchirappalli (West),Devi Narayanan,BJP,5274,0,5274,4.70,112432,111212,18431,False
+Tiruchirappalli (West),Anbu Selvam,IND,0,0,0,0.0,112432,111212,18431,False
+Kumbakonam,Selvam Annamalai,DMK,47312,228,47540,48.28,98432,97212,27312,True
+Kumbakonam,Priya Krishnan,AIADMK,20128,88,20216,20.59,98432,97212,27312,False
+Kumbakonam,Kavitha Murugan,INC,13231,62,13293,13.52,98432,97212,27312,False
+Kumbakonam,Murugan Narayanan,NTK,9841,44,9885,10.07,98432,97212,27312,False
+Kumbakonam,Devi Pillai,VCK,6278,0,6278,6.39,98432,97212,27312,False
+Kumbakonam,Anbu Selvam,IND,0,0,0,0.0,98432,97212,27312,False
+Madurai West,Priya Krishnamurthy,DMK,47312,228,47540,45.66,104321,103112,16431,True
+Madurai West,Selvam Krishnan,AIADMK,31012,80,31092,29.81,104321,103112,16431,False
+Madurai West,Kavitha Murugan,INC,13231,62,13293,12.75,104321,103112,16431,False
+Madurai West,Murugan Narayanan,NTK,9841,44,9885,9.49,104321,103112,16431,False
+Madurai West,Devi Pillai,BJP,3302,0,3302,3.17,104321,103112,16431,False
+Madurai West,Anbu Selvam,IND,0,0,0,0.0,104321,103112,16431,False
+Tiruppur (North),Kavitha Selvam,DMK,46312,222,46534,42.93,108432,107212,14431,True
+Tiruppur (North),Priya Krishnan,AIADMK,32012,80,32092,29.65,108432,107212,14431,False
+Tiruppur (North),Selvam Murugan,AIADMK,14231,66,14297,13.20,108432,107212,14431,False
+Tiruppur (North),Kavitha Rajan,NTK,9841,44,9885,9.13,108432,107212,14431,False
+Tiruppur (North),Devi Narayanan,BJP,4404,0,4404,4.07,108432,107212,14431,False
+Tiruppur (North),Anbu Selvam,IND,0,0,0,0.0,108432,107212,14431,False
+Udhagamandalam,Selvam Krishnamurthy,DMK,37312,180,37492,45.56,82341,81212,14312,True
+Udhagamandalam,Priya Annamalai,AIADMK,23080,104,23184,28.18,82341,81212,14312,False
+Udhagamandalam,Kavitha Murugan,INC,9231,42,9273,11.27,82341,81212,14312,False
+Udhagamandalam,Murugan Narayanan,NTK,7241,32,7273,8.83,82341,81212,14312,False
+Udhagamandalam,Devi Pillai,BJP,4290,0,4290,5.21,82341,81212,14312,False
+Udhagamandalam,Anbu Selvam,IND,0,0,0,0.0,82341,81212,14312,False
+Rasipuram,Kumar Venkataraman,DMK,40312,196,40508,45.27,89432,88212,1024,True
+Rasipuram,Priya Selvam,AIADMK,39384,120,39504,44.22,89432,88212,1024,False
+Rasipuram,Selvam Murugan,INC,4931,22,4953,5.56,89432,88212,1024,False
+Rasipuram,Kavitha Rajan,NTK,2247,0,2247,2.52,89432,88212,1024,False
+Rasipuram,Devi Narayanan,BJP,1000,0,1000,1.12,89432,88212,1024,False
+Rasipuram,Anbu Selvam,IND,0,0,0,0.0,89432,88212,1024,False
+Sholinganallur,Priya Krishnamurthy,DMK,50312,242,50554,43.52,116432,115212,18431,True
+Sholinganallur,Selvam Krishnan,AIADMK,32012,71,32083,27.65,116432,115212,18431,False
+Sholinganallur,Kavitha Rajan,BJP,16231,74,16305,14.04,116432,115212,18431,False
+Sholinganallur,Murugan Narayanan,INC,10241,46,10287,8.86,116432,115212,18431,False
+Sholinganallur,Devi Pillai,NTK,5783,0,5783,4.98,116432,115212,18431,False
+Sholinganallur,Anbu Selvam,IND,200,0,200,0.17,116432,115212,18431,False
+Sholinganallur,Rajan Pillai,IND,0,0,0,0.0,116432,115212,18431,False
